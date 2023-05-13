@@ -28,7 +28,7 @@ Not: Kartların bireysel puanları "photo9"da belirtilmiştir.
 
 -----------------------------------------------------------------------------------------------------------------------------------------
 
-This project, written in Kotlin, is a classic card matching game with a Harry Potter theme. To start the game, users need to create a profile. The newly created profiles, including ID, username, email, and password, are stored in Firebase Realtime Database. The information about the characters on the back of the cards, such as their name, photo (in Base64 format), score, and house affiliation, is stored in Firebase Cloud Firestore. The game has three difficulty levels (2x2, 4x4, 6x6), and each level can be played either in single-player or two-player mode. The single-player game has a time limit of 45 seconds, while the two-player game has a time limit of 60 seconds.
+EN| This project, written in Kotlin, is a classic card matching game with a Harry Potter theme. To start the game, users need to create a profile. The newly created profiles, including ID, username, email, and password, are stored in Firebase Realtime Database. The information about the characters on the back of the cards, such as their name, photo (in Base64 format), score, and house affiliation, is stored in Firebase Cloud Firestore. The game has three difficulty levels (2x2, 4x4, 6x6), and each level can be played either in single-player or two-player mode. The single-player game has a time limit of 45 seconds, while the two-player game has a time limit of 60 seconds.
 
 The scoring system for the single-player game is as follows;
 o The game lasts for 45 seconds. Each card has a score and belongs to a house. The game score will be displayed on the screen in real-time after each move.
