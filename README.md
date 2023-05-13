@@ -54,5 +54,5 @@ o House coefficients:
 ▪ Hufflepuff : 1
 ▪ Ravenclaw : 1
 
-Note: The individual scores of the cards are indicated in "photo9"
+Note: The individual scores of the cards are indicated in "photo9".
 
